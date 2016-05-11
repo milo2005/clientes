@@ -1,11 +1,11 @@
 #Api Clientes
 Ejemplo de API REST con nodejs, express y mongodb.
 
- - [Instalación](#instalación)
+ - [Instalación](#instalacion)
  - [Ejecución](#ejecucion)
  - [Api Rest](#api-rest)
 
-##Instalación
+##Instalacion
 A continuación se describe los pasos para preparar el entorno NodeJS.
 
 1. Instalar NodeJS.
@@ -21,6 +21,6 @@ git clone https://github.com/milo2005/clientes.git
 npm install
 ```
 
-##Ejecución
+##Ejecucion
 
 ##API REST
